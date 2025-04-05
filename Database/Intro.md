@@ -1,4 +1,4 @@
-Sure! If you're a **beginner in DevOps** and want to learn about **database concepts**, it's important to understand both how databases work *and* how DevOps professionals interact with them. Let’s break it down step-by-step in a simple and practical way.
+If you're a **beginner in DevOps** and want to learn about **database concepts**, it's important to understand both how databases work *and* how DevOps professionals interact with them. Let’s break it down step-by-step in a simple and practical way.
 
 ---
 
