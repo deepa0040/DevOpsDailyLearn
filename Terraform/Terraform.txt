@@ -1,0 +1,7 @@
+lookup: can be use to set default value so the cde will not fail for no value.
+- can be use to reduce parameter.
+
+-target
+terraform plan -target=module.dynamodb_table -var-file=dev.tfvars 
+The -target option is not for routine use, and is provided only for exceptional situations such as recovering from errors or mistakes,
+│ or when Terraform specifically suggests to use it as part of an error message.
