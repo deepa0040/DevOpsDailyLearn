@@ -23,3 +23,7 @@ module "sqs_service" {
   sqs_queues = var.sqs_queues
 
 }
+module "cognito" {
+  source ="./modules/cognito_service"
+  de
+}
